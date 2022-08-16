@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Central Admission Processing System/1.0.0": {
+        "runtime": {
+          "Central Admission Processing System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Central Admission Processing System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

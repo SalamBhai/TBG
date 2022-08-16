@@ -1,0 +1,16 @@
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\SwitchStatement.exe
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\SwitchStatement.deps.json
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\SwitchStatement.runtimeconfig.json
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\SwitchStatement.runtimeconfig.dev.json
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\SwitchStatement.dll
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\ref\SwitchStatement.dll
+C:\Users\user\C#\SwitchStatement\bin\Debug\net5.0\SwitchStatement.pdb
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.dll
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\ref\SwitchStatement.dll
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.pdb
+C:\Users\user\C#\SwitchStatement\obj\Debug\net5.0\SwitchStatement.genruntimeconfig.cache

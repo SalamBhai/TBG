@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\FileAndStreamIO.exe
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\FileAndStreamIO.deps.json
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\FileAndStreamIO.runtimeconfig.json
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\FileAndStreamIO.runtimeconfig.dev.json
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\FileAndStreamIO.dll
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\ref\FileAndStreamIO.dll
+C:\Users\user\Desktop\FileAndStreamIO\bin\Debug\net5.0\FileAndStreamIO.pdb
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.AssemblyInfo.cs
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.dll
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\ref\FileAndStreamIO.dll
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.pdb
+C:\Users\user\Desktop\FileAndStreamIO\obj\Debug\net5.0\FileAndStreamIO.genruntimeconfig.cache

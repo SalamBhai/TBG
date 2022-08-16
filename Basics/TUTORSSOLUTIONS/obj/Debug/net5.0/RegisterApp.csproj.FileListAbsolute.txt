@@ -1,0 +1,16 @@
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.csproj.AssemblyReference.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.AssemblyInfoInputs.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.AssemblyInfo.cs
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\RegisterApp.exe
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\RegisterApp.deps.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\RegisterApp.runtimeconfig.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\RegisterApp.runtimeconfig.dev.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\RegisterApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\ref\RegisterApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\bin\Debug\net5.0\RegisterApp.pdb
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\ref\RegisterApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.pdb
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\RegisterApp\obj\Debug\net5.0\RegisterApp.genruntimeconfig.cache

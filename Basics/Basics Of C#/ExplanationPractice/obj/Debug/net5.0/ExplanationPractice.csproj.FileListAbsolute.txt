@@ -1,0 +1,16 @@
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.csproj.AssemblyReference.cache
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.AssemblyInfoInputs.cache
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.AssemblyInfo.cs
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ExplanationPractice.exe
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ExplanationPractice.deps.json
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ExplanationPractice.runtimeconfig.json
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ExplanationPractice.runtimeconfig.dev.json
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ExplanationPractice.dll
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ref\ExplanationPractice.dll
+C:\Users\user\C#\ExplanationPractice\bin\Debug\net5.0\ExplanationPractice.pdb
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.dll
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ref\ExplanationPractice.dll
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.pdb
+C:\Users\user\C#\ExplanationPractice\obj\Debug\net5.0\ExplanationPractice.genruntimeconfig.cache

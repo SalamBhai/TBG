@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\MATHMOGUL.exe
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\MATHMOGUL.deps.json
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\MATHMOGUL.runtimeconfig.json
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\MATHMOGUL.runtimeconfig.dev.json
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\MATHMOGUL.dll
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\ref\MATHMOGUL.dll
+C:\Users\user\Desktop\MATHMOGUL\bin\Debug\net5.0\MATHMOGUL.pdb
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.AssemblyInfo.cs
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.dll
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\ref\MATHMOGUL.dll
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.pdb
+C:\Users\user\Desktop\MATHMOGUL\obj\Debug\net5.0\MATHMOGUL.genruntimeconfig.cache

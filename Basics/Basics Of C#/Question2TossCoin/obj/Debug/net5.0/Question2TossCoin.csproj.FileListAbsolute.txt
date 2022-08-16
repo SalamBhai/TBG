@@ -1,0 +1,16 @@
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.csproj.AssemblyReference.cache
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.AssemblyInfoInputs.cache
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.AssemblyInfo.cs
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\Question2TossCoin.exe
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\Question2TossCoin.deps.json
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\Question2TossCoin.runtimeconfig.json
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\Question2TossCoin.runtimeconfig.dev.json
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\Question2TossCoin.dll
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\ref\Question2TossCoin.dll
+C:\Users\user\C#\Question2TossCoin\bin\Debug\net5.0\Question2TossCoin.pdb
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.dll
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\ref\Question2TossCoin.dll
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.pdb
+C:\Users\user\C#\Question2TossCoin\obj\Debug\net5.0\Question2TossCoin.genruntimeconfig.cache

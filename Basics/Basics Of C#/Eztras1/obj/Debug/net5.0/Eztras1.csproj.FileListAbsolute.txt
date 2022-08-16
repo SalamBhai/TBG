@@ -1,0 +1,16 @@
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.csproj.AssemblyReference.cache
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.AssemblyInfoInputs.cache
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.AssemblyInfo.cs
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\Eztras1.exe
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\Eztras1.deps.json
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\Eztras1.runtimeconfig.json
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\Eztras1.runtimeconfig.dev.json
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\Eztras1.dll
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\ref\Eztras1.dll
+C:\Users\user\C#\Eztras1\bin\Debug\net5.0\Eztras1.pdb
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.dll
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\ref\Eztras1.dll
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.pdb
+C:\Users\user\C#\Eztras1\obj\Debug\net5.0\Eztras1.genruntimeconfig.cache

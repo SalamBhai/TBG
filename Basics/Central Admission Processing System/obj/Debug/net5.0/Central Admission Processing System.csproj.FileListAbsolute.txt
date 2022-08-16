@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\Central Admission Processing System.exe
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\Central Admission Processing System.deps.json
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\Central Admission Processing System.runtimeconfig.json
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\Central Admission Processing System.runtimeconfig.dev.json
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\Central Admission Processing System.dll
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\ref\Central Admission Processing System.dll
+C:\Users\user\Desktop\Central Admission Processing System\bin\Debug\net5.0\Central Admission Processing System.pdb
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.AssemblyInfo.cs
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.dll
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\ref\Central Admission Processing System.dll
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.pdb
+C:\Users\user\Desktop\Central Admission Processing System\obj\Debug\net5.0\Central Admission Processing System.genruntimeconfig.cache

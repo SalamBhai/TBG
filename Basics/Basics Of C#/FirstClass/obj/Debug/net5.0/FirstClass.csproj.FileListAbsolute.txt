@@ -1,0 +1,16 @@
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\FirstClass.exe
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\FirstClass.deps.json
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\FirstClass.runtimeconfig.json
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\FirstClass.runtimeconfig.dev.json
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\FirstClass.dll
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\ref\FirstClass.dll
+C:\Users\user\C#\FirstClass\bin\Debug\net5.0\FirstClass.pdb
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.csproj.AssemblyReference.cache
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.AssemblyInfoInputs.cache
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.AssemblyInfo.cs
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.dll
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\ref\FirstClass.dll
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.pdb
+C:\Users\user\C#\FirstClass\obj\Debug\net5.0\FirstClass.genruntimeconfig.cache

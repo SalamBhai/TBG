@@ -1,0 +1,16 @@
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.csproj.AssemblyReference.cache
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.AssemblyInfoInputs.cache
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.AssemblyInfo.cs
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\NewClassAssessment.exe
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\NewClassAssessment.deps.json
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\NewClassAssessment.runtimeconfig.json
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\NewClassAssessment.runtimeconfig.dev.json
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\NewClassAssessment.dll
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\ref\NewClassAssessment.dll
+C:\Users\user\C#\NewClassAssessment\bin\Debug\net5.0\NewClassAssessment.pdb
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.dll
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\ref\NewClassAssessment.dll
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.pdb
+C:\Users\user\C#\NewClassAssessment\obj\Debug\net5.0\NewClassAssessment.genruntimeconfig.cache

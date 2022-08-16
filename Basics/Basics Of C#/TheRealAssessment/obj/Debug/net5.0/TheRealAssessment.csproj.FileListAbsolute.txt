@@ -1,0 +1,16 @@
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\TheRealAssessment.exe
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\TheRealAssessment.deps.json
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\TheRealAssessment.runtimeconfig.json
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\TheRealAssessment.runtimeconfig.dev.json
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\TheRealAssessment.dll
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\ref\TheRealAssessment.dll
+C:\Users\user\C#\TheRealAssessment\bin\Debug\net5.0\TheRealAssessment.pdb
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.csproj.AssemblyReference.cache
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.AssemblyInfoInputs.cache
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.AssemblyInfo.cs
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.dll
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\ref\TheRealAssessment.dll
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.pdb
+C:\Users\user\C#\TheRealAssessment\obj\Debug\net5.0\TheRealAssessment.genruntimeconfig.cache

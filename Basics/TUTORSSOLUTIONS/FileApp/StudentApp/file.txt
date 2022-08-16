@@ -1,0 +1,4 @@
+Saula	Paul	SaulPaul@gmail.com	08071918022	21	Male	2/SP/06122021	06/12/2021 12:31:46 PM
+Ahmad	Asheem	Ahmadasheem@gmail.com	08032435467	21	Male	3/AA/06122021	06/12/2021 12:59:10 PM
+Samad	Yusuf	SamadYusuf@gmail.com	9071818022	20	Male	3/SY/06122021	06/12/2021 3:58:22 PM
+StudentApp.Student

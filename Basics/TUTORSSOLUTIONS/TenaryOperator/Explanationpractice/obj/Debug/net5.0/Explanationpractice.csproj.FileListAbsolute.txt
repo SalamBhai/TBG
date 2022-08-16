@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.AssemblyInfo.cs
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\Explanationpractice.exe
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\Explanationpractice.deps.json
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\Explanationpractice.runtimeconfig.json
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\Explanationpractice.runtimeconfig.dev.json
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\Explanationpractice.dll
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\ref\Explanationpractice.dll
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\bin\Debug\net5.0\Explanationpractice.pdb
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.dll
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\ref\Explanationpractice.dll
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.pdb
+C:\Users\user\Desktop\TenaryOperator\Explanationpractice\obj\Debug\net5.0\Explanationpractice.genruntimeconfig.cache

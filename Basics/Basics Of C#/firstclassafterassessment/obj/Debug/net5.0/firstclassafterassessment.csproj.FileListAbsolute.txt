@@ -1,0 +1,16 @@
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.csproj.AssemblyReference.cache
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.AssemblyInfoInputs.cache
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.AssemblyInfo.cs
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\firstclassafterassessment.exe
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\firstclassafterassessment.deps.json
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\firstclassafterassessment.runtimeconfig.json
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\firstclassafterassessment.runtimeconfig.dev.json
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\firstclassafterassessment.dll
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\ref\firstclassafterassessment.dll
+C:\Users\user\C#\firstclassafterassessment\bin\Debug\net5.0\firstclassafterassessment.pdb
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.dll
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\ref\firstclassafterassessment.dll
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.pdb
+C:\Users\user\C#\firstclassafterassessment\obj\Debug\net5.0\firstclassafterassessment.genruntimeconfig.cache

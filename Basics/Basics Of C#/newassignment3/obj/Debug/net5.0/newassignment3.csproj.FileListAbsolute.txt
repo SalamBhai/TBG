@@ -1,0 +1,16 @@
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\newassignment3.exe
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\newassignment3.deps.json
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\newassignment3.runtimeconfig.json
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\newassignment3.runtimeconfig.dev.json
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\newassignment3.dll
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\ref\newassignment3.dll
+C:\Users\user\C#\newassignment3\bin\Debug\net5.0\newassignment3.pdb
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.csproj.AssemblyReference.cache
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.AssemblyInfoInputs.cache
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.AssemblyInfo.cs
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.dll
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\ref\newassignment3.dll
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.pdb
+C:\Users\user\C#\newassignment3\obj\Debug\net5.0\newassignment3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.exe
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.deps.json
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.runtimeconfig.json
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.runtimeconfig.dev.json
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.dll
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\ref\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.dll
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\bin\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.pdb
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.AssemblyInfo.cs
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.dll
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\ref\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.dll
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.pdb
+C:\Users\user\Desktop\FileAndStreamIO\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit\obj\Debug\net5.0\DIY-Create_AFileAndAsktheuserwhathewouldaddtoit.genruntimeconfig.cache
